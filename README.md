@@ -2,7 +2,7 @@ I'm a full time Linux user, interested in contributing on GitHub. My frequently 
 
 <p align="center">
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=bsd,linux,arduino,raspberrypi,vim,vscode,go,bash,php,perl,py,git,tailwind,mongodb,mysql,sqlite&theme=light&perline=4" />
+    <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,vim,vscode,go,bash,php,py,git,tailwind,mongodb,mysql,sqlite&theme=light&perline=5" />
   </a>
 </p>
 
